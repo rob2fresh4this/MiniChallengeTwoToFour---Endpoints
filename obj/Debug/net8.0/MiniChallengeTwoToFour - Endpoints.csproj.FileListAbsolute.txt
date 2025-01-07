@@ -1,0 +1,33 @@
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\appsettings.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.exe
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.csproj.AssemblyReference.cache
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfoInputs.cache
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.AssemblyInfo.cs
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.csproj.CoreCompileInputs.cache
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.sourcelink.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.MiniChallengeTwoToFour - Endpoints.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.build.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiniChallengeTwoToFour - Endpoints.props
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\scopedcss\bundle\MiniChallengeTwoToFour - Endpoints.styles.css
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChal.F8D11433.Up2Date
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\refint\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.pdb
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\MiniChallengeTwoToFour - Endpoints.genruntimeconfig.cache
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Debug\net8.0\ref\MiniChallengeTwoToFour - Endpoints.dll
