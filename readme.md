@@ -45,6 +45,9 @@ Each endpoint must have:
 #### Revision History  
 - [1/6/25] done  
 
-# Review by: 
+# Review by: Santiago Jesus Montanez
 
-### Overall Feedback:  
+### Overall Feedback
+
+All three endpoints work. I was able to find the injection pretty easily in program.cs
+Great job with including validations. Hopefully, we get to learn how to better handle validations with our APIs in the future.
