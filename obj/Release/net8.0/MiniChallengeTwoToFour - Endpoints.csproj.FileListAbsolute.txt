@@ -31,3 +31,8 @@ C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - 
 C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Release\net8.0\MiniChallengeTwoToFour - Endpoints.pdb
 C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Release\net8.0\MiniChallengeTwoToFour - Endpoints.genruntimeconfig.cache
 C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\obj\Release\net8.0\ref\MiniChallengeTwoToFour - Endpoints.dll
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Release\net8.0\publish\web.config
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Release\net8.0\publish\appsettings.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Release\net8.0\publish\MiniChallengeTwoToFour - Endpoints.deps.json
+C:\Users\grijr\VScode\CodeStack 24-25\Season 3 BackEnd\MiniChallengeTwoToFour - Endpoints\bin\Release\net8.0\publish\MiniChallengeTwoToFour - Endpoints.runtimeconfig.json
