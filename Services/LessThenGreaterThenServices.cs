@@ -42,7 +42,7 @@ namespace MiniChallengeTwoToFour___Endpoints.Services
                 }
                 else if (convertNum3 == convertNum4)
                 {
-                    reply1 = "The first number " + convertNum3 +  " is equal to the second number " + convertNum4;
+                    reply1 = "The first number " + convertNum3 +  "     is equal to the second number " + convertNum4;
                 }
                 else
                 {

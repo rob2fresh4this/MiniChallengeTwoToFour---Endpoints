@@ -13,7 +13,7 @@ namespace MiniChallengeTwoToFour___Endpoints.Controllers
             _lessThenGreaterThenService = lessThenGreaterThenService;
         }
 
-        [HttpPost]
+        [HttpGet]
         [Route("lessThenGreaterThen/{num3}/{num4}")]
         public string LessThenGreaterThenMethod(string num3, string num4)
         {
